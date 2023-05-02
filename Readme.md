@@ -43,7 +43,7 @@ docker-compose up -d
 and then pointing a browser to [localhost](http://localhost:8888)
 
 # Paper
-S. Lazzardi, F. Valle, A. Mazzolini, A. Scialdone, M. Caselle and M. Osella, [Emergent statistical laws in single-cell transcriptomic data](PhysRevE.107.044403), *Physical Review E* (**2023**)
+S. Lazzardi, F. Valle, A. Mazzolini, A. Scialdone, M. Caselle and M. Osella, [Emergent statistical laws in single-cell transcriptomic data](https://doi.org/10.1103/PhysRevE.107.044403), *Physical Review E* (**2023**)
 # License
 See [LICENSE](LICENSE)
 
